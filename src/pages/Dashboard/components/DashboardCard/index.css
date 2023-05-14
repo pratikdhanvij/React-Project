@@ -1,0 +1,17 @@
+.card-containt{
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    align-items: center;
+    height: 420px;
+    
+
+}
+
+.button{
+    color: black;
+    width: 300px;
+}
+
+.subtitle{
+    padding-left: 20px;
+}

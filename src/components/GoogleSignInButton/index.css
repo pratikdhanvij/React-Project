@@ -1,0 +1,19 @@
+.btn {
+  background-color: white;
+  color: #737373;
+  border-radius: 5px;
+  width: 280px;
+  height: 40px;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.btn:hover {
+  box-shadow: 5px 5px 0 1px rgb(0 0 0 / 5%);
+}
+
+.googleImg {
+  width: 50px;
+  padding-right: 25px;
+}
